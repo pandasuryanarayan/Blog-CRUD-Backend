@@ -46,6 +46,7 @@ npm -v
 
 ```bash
 git clone [YOUR_REPOSITORY_URL_HERE]
+cd <cloned-folder-name>
 ```
 
 **Option B: Download Manually**
