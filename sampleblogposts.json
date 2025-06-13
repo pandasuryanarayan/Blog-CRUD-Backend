@@ -1,0 +1,26 @@
+[
+    {
+        "id": "a1b2c3d4",
+        "title": "My First Blog Post",
+        "content": "This is the content of my first blog post. It's a great day to learn something new!",
+        "author": "Alice",
+        "createdAt": "2023-01-01T10:00:00Z",
+        "updatedAt": "2023-01-01T10:00:00Z"
+    },
+    {
+        "id": "e5f6g7h8",
+        "title": "Thoughts on AI",
+        "content": "Exploring the impact of artificial intelligence on society and its future development.",
+        "author": "Bob",
+        "createdAt": "2023-01-05T14:30:00Z",
+        "updatedAt": "2023-01-05T14:30:00Z"
+    },
+    {
+        "id": "i9j0k1l2",
+        "title": "Cooking Adventures: Pasta Perfection",
+        "content": "A step-by-step guide to making the perfect homemade pasta from scratch, a delightful culinary journey.",
+        "author": "Alice",
+        "createdAt": "2023-01-10T11:00:00Z",
+        "updatedAt": "2023-01-10T11:00:00Z"
+    }
+]
